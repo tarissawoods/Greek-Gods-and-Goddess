@@ -1,6 +1,6 @@
-# Greek-Gods-and-Goddess
-# A simple webpage on Greek gods and goddess
-# Its purpose is to inform and entertain the reader on Greek Gods, Goddess, and myths
+Greek-Gods-and-Goddess
+A simple webpage on Greek gods and goddess
+Its purpose is to inform and entertain the reader on Greek Gods, Goddess, and myths
 <html>
 <title>Greek Gods and Goddesses</title>
 <body style="background-color:#f9edd1;">
